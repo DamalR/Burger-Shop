@@ -1,0 +1,36 @@
+body{
+    background-color: black;
+}
+
+/* Add your own styles as needed */
+
+
+.nav-link {
+    color: #dedede; /* Text color */
+    font-size: 20px;
+    
+}
+
+.nav-link:hover {
+    color: #978f25; /* Text color on hover */
+}
+
+/* Optional: Add padding or margin to adjust spacing */
+.nav {
+    padding: 10px;
+}
+
+.nav-link {
+    padding: 10px;
+    margin-right: 10px;
+}
+
+#Logout-btn{
+    color: rgb(255, 255, 255);
+}
+
+h5{
+    font-weight: bold;
+    color: #fffdfc;
+    font-size: 50px;
+}
